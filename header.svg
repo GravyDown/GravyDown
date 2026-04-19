@@ -1,0 +1,25 @@
+<svg viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .hn{font-family:'Courier New',Courier,monospace;font-size:64px;font-weight:700;fill:#111}
+      .hr{font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:.18em;fill:#888;text-transform:uppercase}
+      .hm{font-family:'Courier New',Courier,monospace;font-size:10px;fill:#aaa;letter-spacing:.06em}
+      @media(prefers-color-scheme:dark){.hn{fill:#f0f0f0}.hr{fill:#999}.hm{fill:#666}}
+    </style>
+  </defs>
+  <line x1="32" y1="16" x2="32" y2="164" stroke="#111" stroke-width="1" opacity=".12"/>
+  <circle cx="720" cy="28" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="744" cy="28" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="768" cy="28" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="720" cy="52" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="744" cy="52" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="768" cy="52" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="720" cy="76" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="744" cy="76" r="2.5" fill="#111" opacity=".07"/>
+  <circle cx="768" cy="76" r="2.5" fill="#111" opacity=".07"/>
+  <text class="hn" x="54" y="105">Garvit_</text>
+  <text class="hr" x="55" y="132">Full Stack  ·  AI Product  ·  Builder</text>
+  <line x1="54" y1="150" x2="660" y2="150" stroke="#111" stroke-width=".8" opacity=".1"/>
+  <circle cx="58" cy="166" r="4.5" fill="#1D9E75"/>
+  <text class="hm" x="70" y="170">open to opportunities · pune, in</text>
+</svg>
