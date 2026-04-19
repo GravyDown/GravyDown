@@ -80,7 +80,7 @@ RAG-powered backend API enabling document-grounded question answering over large
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GravyDown&show_icons=true&hide_border=true&count_private=true&theme=graywhite&rank_icon=github" height="150" alt="stats"/>
+ 
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GravyDown&layout=compact&hide_border=true&theme=graywhite" height="150" alt="langs"/>
 </p>
@@ -94,6 +94,8 @@ RAG-powered backend API enabling document-grounded question answering over large
 | **Status** | Open to full-time and collaborative opportunities |
 | **Location** | Pune, Maharashtra, India |
 | **GitHub** | [github.com/GravyDown](https://github.com/GravyDown) |
+| **LinkedIn** | [linkedin.com/in/garvit-tyagi](https://linkedin.com/in/garvit-tyagi) |
+
 
 ---
 
