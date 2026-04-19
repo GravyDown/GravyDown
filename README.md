@@ -18,6 +18,7 @@ Software engineer and product designer with hands-on experience at the intersect
 Previously: **Product Designer @ Neuramach AI Pvt. Ltd.** — an AI/ML company where I worked at the boundary of model behaviour and human experience.
 
 ---
+[![An image of @gravydown's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gravydown)](https://holopin.io/@gravydown)
 
 ## Technical Scope
 
