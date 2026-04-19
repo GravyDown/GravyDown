@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>"programming in progress"</em>
+  <em>"Programming in Progress"</em>
 </p>
 
 ---
