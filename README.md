@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Garvit"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=52&duration=2000&pause=800&color=111111&width=800&height=120&vCenter=true&repeat=true&lines=Garvit_" alt="Garvit_" />
 </p>
-
 <p align="center">
-  <em>"Programming in Progress"</em>
+  <code>Full Stack &nbsp;·&nbsp; AI Product &nbsp;·&nbsp; Builder</code>
 </p>
-
+<p align="center">
+  🟢 &nbsp;<em>open to opportunities · pune, in</em>
+</p>
+<p align="center">
+  <em>"programming in progress"</em>
+</p>
 ---
 
 ## About
