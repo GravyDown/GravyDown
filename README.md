@@ -5,7 +5,7 @@
   <code>Full Stack &nbsp;·&nbsp; AI Product &nbsp;·&nbsp; Builder</code>
 </p>
 <p align="center">
-  🟢 &nbsp;<em>open to opportunities · pune, in</em>
+  🟢 &nbsp;<em>Open to opportunities · Pune, in</em>
 </p>
 <p align="center">
   <em>"Programming in Progress"</em>
